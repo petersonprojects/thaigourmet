@@ -62,3 +62,17 @@
 .honeydewBG{
     background-color:#CDE5D7;
 }
+
+.opacity{
+    opacity: 70%;
+}
+
+.z10{
+    z-index: 10;
+}
+.z15{
+    z-index: 15;
+}
+.z20{
+    z-index: 20;
+}
