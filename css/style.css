@@ -144,6 +144,10 @@ li{
     width: 25vw;
     border-radius: 100%;
 }
+.location{
+    height: 40vh;
+    width: 25vw;
+}
 
 .karla{
     font-family: 'Karla', sans-serif;
