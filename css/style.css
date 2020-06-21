@@ -1,4 +1,9 @@
 
+*{
+    margin:0px;
+    box-sizing:border-box;
+}
+
 .operaMauveText{
     color:#AD7A99;
 }
@@ -75,4 +80,14 @@
 }
 .z20{
     z-index: 20;
+}
+
+.header{
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.top{
+    top:0px;
 }
