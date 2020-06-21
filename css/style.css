@@ -1,10 +1,43 @@
-/*
-tea green #D0FCB3
-powder blue #9AD1D4
-bdazzled blue #415A77
-shadow blue #778DA9
-opera mauve #AD7A99
-*/
+
+.operaMauveText{
+    color:#AD7A99;
+}
+
+.operaMauveBG{
+    background-color:#AD7A99;
+}
+
+.shadowBlueText{
+    color:#778DA9;
+}
+
+.shadowBlueBG{
+    background-color:#778DA9;
+}
+
+.bdazzledBlueText{
+    color: #415A77;
+}
+
+.bdazzledBlueBG{
+    background-color: #415A77;
+}
+
+.powderBlueText{
+    color:#9AD1D4;
+}
+
+.powderBlueBG{
+    background-color:#9AD1D4;
+}
+
+.teaGreenText{
+    color:#D0FCB3;
+}
+
+.teaGreenBG{
+    background-color:#D0FCB3;
+}
 
 .tangerineText{
     color:#F4998D;
