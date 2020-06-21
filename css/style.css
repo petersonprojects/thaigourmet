@@ -57,7 +57,10 @@
 }
 
 .borderRadius{
-    border-radius: 2%;
+    border-radius: 5%;
+}
+.borderRadius2{
+    border-radius: 10%;
 }
 
 .cherryBlossomBG{
@@ -130,5 +133,16 @@ li{
 }
 
 .main{
-    height:1500px;
+    overflow:hidden;
+}
+
+.padthai{
+    height: 40vh;
+    width: 25vw;
+    border-radius: 100%;
+}
+
+.karla{
+    font-family: 'Karla', sans-serif;
+    font-size: 25px;
 }
