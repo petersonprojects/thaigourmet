@@ -85,6 +85,9 @@
 .height10{
     height: 10vh;
 }
+.height8{
+    height: 8vh;
+}
 
 .h75{
     height:75vh;
@@ -145,4 +148,8 @@ li{
 .karla{
     font-family: 'Karla', sans-serif;
     font-size: 25px;
+}
+
+.blackborder{
+    border: solid 2px black;
 }
