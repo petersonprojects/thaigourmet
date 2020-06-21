@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
   </head>
 
-  <body class="cherryBlossomBG">
+  <body class="operaMauveBG">
     <div class="container-fluid p-0">
 
         <!--Try to get Flamingosis "Not Like the Others" to play in background"-->
@@ -21,7 +21,7 @@
         <div class="header position-relative">
 
             <div class="d-flex flex-column h-100 w-100 justify-content-center align-items-center z20 text-white position-absolute top">
-                <div class="cherryBlossomText" style="font-size: 120px;">
+                <div class="operaMauveText" style="font-size: 120px;">
                     Thai Gourmet
                 </div>
                 <div class="honeydewText" style="font-size: 25px;">Houston's Best Almost-Authentic Thai Cuisine</div>
@@ -39,39 +39,63 @@
         </div>
 
         <!-- start nav bar -->
-        <nav class="navbar height10 navbar-expand-lg navbar-light cherryBlossonBG sticky-top p-0">
+        <nav class="navbar height10 navbar-expand-lg bg-white cherryBlossomText sticky-top p-0">
 
-            <a class="navbar-brand mLeft" href="https://github.com/petersonprojects" target="_blank">petersonprojects<i class="fa fa-copyright" aria-hidden="true"></i></a>
+            <!--Logo-->
+            <a class="navbar-brand ml-4" href="http://www.thaigourmethouston.com" target="_blank">
+                <img src="images/tglogo.png" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|} height10" alt="">
+            </a>
+
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse p-0 height10" id="navbarText">
             <ul class="navbar-nav mr-auto align-items-center height10">
 
-                <li class="nav-item d-flex align-items-center justify-content-center navItemSize h-100">
-                    <i class="fa fa-home" aria-hidden="true"></i>
-                    <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
+                <li class="nav-item d-flex align-items-center justify-content-center navItemSize mLeft2 h-100">
+                    <a class="nav-link bdazzledBlueText" href="#">
+                        <i class="fa fa-home cherryBlossomText" aria-hidden="true"></i> 
+                        Home
+                        <span class="sr-only">(current)</span>
+                    </a>
                 </li>
-                <li class="nav-item d-flex align-items-center justify-content-center h-100 navItemSize">
-                    <i class="fa fa-cutlery" aria-hidden="true"></i>
-                <a class="nav-link" href="#">Menu</a>
-                </li>
-                <li class="nav-item d-flex align-items-center justify-content-center h-100 navItemSize">
-                    <i class="fa fa-address-book" aria-hidden="true"></i>
-                    <a class="nav-link" href="#">
 
-                    Information</a>
+                <li class="nav-item d-flex align-items-center justify-content-center h-100 mLeft2 navItemSize">
+                <a class="nav-link bdazzledBlueText" href="#">
+                    <i class="fa fa-cutlery cherryBlossomText" aria-hidden="true"></i> Menu
+                </a>
                 </li>
-                <li class="nav-item d-flex align-items-center justify-content-center navItemSize h-100">
-                    <a class="nav-link" href="#">About Us</a>
+
+                <li class="nav-item d-flex align-items-center justify-content-center h-100 mLeft2 navItemSize">
+                    <a class="nav-link bdazzledBlueText" href="#">
+                        <i class="fa fa-address-book cherryBlossomText" aria-hidden="true"></i> Information
+                    </a>
                 </li>
+
+                <li class="nav-item d-flex align-items-center justify-content-center mLeft2 navItemSize h-100">
+                    <a class="nav-link bdazzledBlueText" href="#">
+                        <i class="fa fa-info-circle  cherryBlossomText" aria-hidden="true"></i> About Us
+                    </a>
+                </li>
+
+                <!--  -->
             </ul>
+            <a href="https://github.com/petersonprojects" target="_blank ">
+                <span class="navbar-text mr-4 bdazzledBlueText">
+                    petersonprojects<i class="fa fa-copyright" aria-hidden="true"></i>
+                </span>
+            </a>
 
-            <span class="navbar-text">
-                Temporary hours of operation due to COVID-19. Link this to information
-            </span>
             </div>
-          </nav>
+        </nav>
+
+        <div class="row operaMauveBG mt-5">
+            <div class="col-1"></div>
+            <div class="col-10 main cherryBlossomBG borderRadius">
+
+            </div>
+            <div class="col-1"></div>
+        </div>
     
     </div> <!--End container fluid-->
 

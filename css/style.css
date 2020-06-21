@@ -56,6 +56,10 @@
     color:#FFB7C3;
 }
 
+.borderRadius{
+    border-radius: 2%;
+}
+
 .cherryBlossomBG{
     background-color:#FFB7C3;
 }
@@ -79,6 +83,10 @@
     height: 10vh;
 }
 
+.h75{
+    height:75vh;
+}
+
 .z10{
     z-index: 10;
 }
@@ -90,7 +98,7 @@
 }
 
 .header{
-    height: 700px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
     font-family: 'Indie Flower', cursive;
@@ -113,6 +121,14 @@ li{
     margin-left:50px;
 }
 
-.mLeft{
+.mLeft1{
     margin-left: 20px;
+}
+
+.mLeft2{
+    margin-left: 25px;
+}
+
+.main{
+    height:1500px;
 }
