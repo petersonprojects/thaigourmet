@@ -105,5 +105,14 @@
 }
 
 .navItemSize{
+    font-size: 25px;
+}
 
+li{
+    display:inline-block;
+    margin-left:50px;
+}
+
+.mLeft{
+    margin-left: 20px;
 }
