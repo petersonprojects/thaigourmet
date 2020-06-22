@@ -157,3 +157,11 @@ li{
 .blackborder{
     border: solid 2px black;
 }
+
+.tAlign{
+    text-align: center;
+}
+
+.menuli{
+    display:block;
+}
