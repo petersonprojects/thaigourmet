@@ -179,3 +179,23 @@ li{
 .z0{
     z-index: 0;
 }
+
+.wParent{
+    width:100%;
+}
+
+.N5ML{
+    margin-left: -15px;
+}
+
+.P5MR{
+    margin-right: 15px;
+}
+
+.btn-primary{
+    background-color: #415A77;
+}
+
+.btn-primary:hover{
+    background-color:#AD7A99;
+}
