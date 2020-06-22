@@ -40,6 +40,10 @@
     color:#D0FCB3;
 }
 
+.whitesmoke{
+    background-color: whitesmoke;
+}
+
 .teaGreenBG{
     background-color:#D0FCB3;
 }
@@ -201,4 +205,12 @@ li{
 
 .btn-primary:hover{
     background-color:#AD7A99;
+}
+
+.fa-arrow-circle-right:hover{
+    color: #AD7A99;;
+}
+
+.fa-arrow-circle-left:hover{
+    color: #AD7A99;;
 }
