@@ -165,3 +165,13 @@ li{
 .menuli{
     display:block;
 }
+
+.bgimage{
+    display:block;
+    width:100%;
+    height:100%;
+}
+
+.z0{
+    z-index: 0;
+}
