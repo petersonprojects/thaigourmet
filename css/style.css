@@ -52,6 +52,13 @@
     background-color:#F4998D;
 }
 
+.thistleText{
+    color:#D4C1EC;
+}
+.thistleBG{
+    background-color:#D4C1EC;
+}
+
 .cherryBlossomText{
     color:#FFB7C3;
 }
@@ -150,7 +157,7 @@ li{
 
 .karla{
     font-family: 'Karla', sans-serif;
-    font-size: 25px;
+    font-size: 18px;
 }
 
 .blackborder{
